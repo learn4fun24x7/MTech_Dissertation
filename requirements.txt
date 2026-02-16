@@ -1,0 +1,16 @@
+tensorflow==2.19.0
+langchain
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+python-dotenv
+ipykernel
+streamlit 
+paho-mqtt
+scikit-learn
+gradio
+plotly
+twilio
+langsmith
+load_dotenv
